@@ -1,5 +1,3 @@
-# 🚨 ___Releasing now: [The Golden Ratio](https://twitter.com/vivid_ordinals/status/1729275086497079321)___ 🚨
-
 ## About
 Vivid Gallery is a community initiative that invites generative artists to inscribe curated collections on Ordinals.
 
@@ -29,6 +27,8 @@ License: CC BY-NC-ND 4.0
 #### Links
 
 - [More information](https://www.vivid.gallery/golden-ratio)
+- [Secondary Listings](https://magiceden.io/ordinals/marketplace/the-golden-ratio)
+- [Rarity tool](https://golden-ratio.vivid.gallery)
 
 ### Rising Echoes
 
